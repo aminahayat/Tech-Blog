@@ -34,14 +34,14 @@ body {
     font-size: larger;
     padding: 20px;
     font-family: cursive;
-    color: blue;
+    color: rgb(20, 20, 86);
   }
   
   .card h3 {
     font-size: larger;
     padding: 20px;
     font-family: cursive;
-    color: blue;
+    color: rgb(13, 13, 94);
   }
   
   #edit {
@@ -81,7 +81,7 @@ h1{
 }
 
 button {
- background-color: red;
+ background-color: rgb(226, 59, 59);
 }
 
 .Edit {
@@ -99,7 +99,7 @@ p{
   left: 0;
   bottom: 0;
   width: 100%;
-  background-color: red;
+  background-color: rgb(251, 188, 188);
   color: white;
   text-align: center;
 }
