@@ -105,6 +105,7 @@
     "named-placeholders": "^1.1.2",
     "negotiator": "^0.6.3",
     "node": "^16.17.0",
+    "nodemon": "^2.0.19",
     "object-inspect": "^1.12.2",
     "object-is": "^1.1.5",
     "object-keys": "^1.1.1",
