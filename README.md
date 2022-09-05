@@ -25,6 +25,8 @@ Just me
 safe-mountain-98504.herokuapp.com
 run on http://localhost:3001/
 
+# Screenshot of app
+![alt text](./public/images/Capture.JPG)
 
 
 # Repo Link
